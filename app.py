@@ -1,6 +1,6 @@
 # Declare variables
 num1 = 1852
-num2 = 1524
+num2 = 1525
 
 # Basic arithmetic operations
 sum_result = num1 + num2
