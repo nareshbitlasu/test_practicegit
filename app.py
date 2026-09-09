@@ -1,7 +1,6 @@
 # Declare variables
 num1 = 1852
 num2 = 1526
-
 # Basic arithmetic operations
 sum_result = num1 + num2
 product = num1 * num2
