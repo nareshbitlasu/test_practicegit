@@ -1,5 +1,5 @@
 # Declare variables
-num1 = 1852
+num1 = 1854
 num2 = 1548
 # Basic arithmetic operations
 sum_result = num1 + num2
